@@ -1,2 +1,7 @@
-# tic-tac-toe
-simple tic tac toe game with python and Qt GUI.
+# Qt Tic Tac Toe
+<img src="images/tic tac toe.png">
+
+## Project setup
+```
+pip install PySide6
+```
